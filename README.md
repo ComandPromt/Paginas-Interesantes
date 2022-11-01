@@ -1,5 +1,3 @@
-# Paginas-Interesantes
-
 # Integración continua
 
 [Pagina china](https://www.murphysec.com)
