@@ -23,3 +23,11 @@
 # Markdown Editor
 
 [Editor Markdown](https://stackedit.io/app)
+
+# Markdown Editor For Eclipse
+
+[Editor Markdown](https://github.com/winterstein/Eclipse-Markdown-Editor-Plugin)
+
+# Markdown Editor For Intellij Idea
+
+[Editor Markdown](https://github.com/shuzijun/markdown-editor)
