@@ -20,6 +20,6 @@
 
 [Abuse IP](https://www.abuseipdb.com)
 
-# Markdown Online
+# Markdown Editor
 
 [Editor Markdown](https://stackedit.io/app)
